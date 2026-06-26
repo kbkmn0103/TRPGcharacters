@@ -1,5 +1,5 @@
 [
-    {
+{
         "id": 1,
         "name": "くようせいじ",
         "category": "animal",
@@ -11,7 +11,7 @@
         "profile": "森で暮らすうさぎ。"
     },
 
-　　 {
+　{
         "id": 2,
         "name": "やまとかえで",
         "category": "animal",
@@ -47,7 +47,7 @@
         "profile": "森で暮らすうさぎ。"
     },
 
-        {
+    {
         "id": 5,
         "name": "くようせいじ",
         "category": "animal",
@@ -59,7 +59,7 @@
         "profile": "森で暮らすうさぎ。"
     },
 
-        {
+     {
         "id": 6,
         "name": "くようせいじ",
         "category": "animal",
