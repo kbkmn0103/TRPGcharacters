@@ -11,4 +11,16 @@
         "profile": "森で暮らすうさぎ。"
     }
 
+        {
+        "id": 2,
+        "name": "やまとかえで",
+        "category": "animal",
+        "description": "いちごが大好き。",
+        "image": "images/kaede.png",
+        "birthday": "4月12日",
+        "likes": "いちご",
+        "personality": "おっとり",
+        "profile": "森で暮らすうさぎ。"
+    }
+
 ]
