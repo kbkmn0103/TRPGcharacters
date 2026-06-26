@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "くようせいじ",
+        "category": "animal",
+        "description": "いちごが大好き。",
+        "image": "images/kuyou.png",
+        "birthday": "4月12日",
+        "likes": "いちご",
+        "personality": "おっとり",
+        "profile": "森で暮らすうさぎ。"
+    }
+
+]
