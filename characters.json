@@ -11,7 +11,7 @@
         "profile": "森で暮らすうさぎ。"
     }
 
-        {
+　　 {
         "id": 2,
         "name": "やまとかえで",
         "category": "animal",
@@ -22,5 +22,66 @@
         "personality": "おっとり",
         "profile": "森で暮らすうさぎ。"
     }
+
+        {
+        "id": 3,
+        "name": "くようせいじ",
+        "category": "animal",
+        "description": "いちごが大好き。",
+        "image": "images/kuyou.png",
+        "birthday": "4月12日",
+        "likes": "いちご",
+        "personality": "おっとり",
+        "profile": "森で暮らすうさぎ。"
+    }
+
+        {
+        "id": 4,
+        "name": "くようせいじ",
+        "category": "animal",
+        "description": "いちごが大好き。",
+        "image": "images/kuyou.png",
+        "birthday": "4月12日",
+        "likes": "いちご",
+        "personality": "おっとり",
+        "profile": "森で暮らすうさぎ。"
+    }
+
+        {
+        "id": 5,
+        "name": "くようせいじ",
+        "category": "animal",
+        "description": "いちごが大好き。",
+        "image": "images/kuyou.png",
+        "birthday": "4月12日",
+        "likes": "いちご",
+        "personality": "おっとり",
+        "profile": "森で暮らすうさぎ。"
+    }
+
+        {
+        "id": 6,
+        "name": "くようせいじ",
+        "category": "animal",
+        "description": "いちごが大好き。",
+        "image": "images/kuyou.png",
+        "birthday": "4月12日",
+        "likes": "いちご",
+        "personality": "おっとり",
+        "profile": "森で暮らすうさぎ。"
+    }
+
+        {
+        "id": 7,
+        "name": "くようせいじ",
+        "category": "animal",
+        "description": "いちごが大好き。",
+        "image": "images/kuyou.png",
+        "birthday": "4月12日",
+        "likes": "いちご",
+        "personality": "おっとり",
+        "profile": "森で暮らすうさぎ。"
+    }
+
 
 ]
